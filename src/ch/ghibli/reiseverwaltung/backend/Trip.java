@@ -1,5 +1,11 @@
 package ch.ghibli.reiseverwaltung.backend;
 
-public class Trip {
+import java.util.ArrayList;
 
+public class Trip {
+    public ArrayList localities;
+
+    public ArrayList getLocalities() {
+        return localities;
+    }
 }
