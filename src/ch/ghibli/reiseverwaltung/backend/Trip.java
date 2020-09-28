@@ -1,5 +1,7 @@
 package ch.ghibli.reiseverwaltung.backend;
 
-public class Trip {
+import ch.ghibli.reiseverwaltung.backend.utils.Indexable;
+
+public class Trip extends Indexable {
 
 }

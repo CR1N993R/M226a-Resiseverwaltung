@@ -1,4 +1,6 @@
 package ch.ghibli.reiseverwaltung.backend;
 
-public class Countries {
+import ch.ghibli.reiseverwaltung.backend.utils.Indexable;
+
+public class Countries extends Indexable {
 }

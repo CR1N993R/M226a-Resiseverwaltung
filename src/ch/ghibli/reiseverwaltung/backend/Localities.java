@@ -1,4 +1,6 @@
 package ch.ghibli.reiseverwaltung.backend;
 
-public class Localities {
+import ch.ghibli.reiseverwaltung.backend.utils.Indexable;
+
+public class Localities extends Indexable {
 }
