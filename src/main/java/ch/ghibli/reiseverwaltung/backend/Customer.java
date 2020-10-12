@@ -9,7 +9,7 @@ import java.util.ArrayList;
 public class Customer extends Indexable {
     private String name;
     private String lastname;
-    public ArrayList<Trip> trips;
+    public ArrayList<Trip> trips = new ArrayList<>();
 
     public Customer(String name, String lastname){
         this.name = name;
