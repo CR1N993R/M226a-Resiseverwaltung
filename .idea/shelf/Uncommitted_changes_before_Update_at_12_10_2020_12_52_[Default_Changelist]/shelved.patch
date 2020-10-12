@@ -1,0 +1,176 @@
+Index: .idea/libraries/Maven__org_openjfx_javafx_controls_16_ea_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_openjfx_javafx_controls_16_ea_2.xml	(date 1602499632376)
++++ .idea/libraries/Maven__org_openjfx_javafx_controls_16_ea_2.xml	(date 1602499632376)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.openjfx:javafx-controls:16-ea+2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/16-ea+2/javafx-controls-16-ea+2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/16-ea+2/javafx-controls-16-ea+2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/16-ea+2/javafx-controls-16-ea+2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_openjfx_javafx_controls_win_16_ea_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_openjfx_javafx_controls_win_16_ea_2.xml	(date 1602499632392)
++++ .idea/libraries/Maven__org_openjfx_javafx_controls_win_16_ea_2.xml	(date 1602499632392)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.openjfx:javafx-controls:win:16-ea+2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/16-ea+2/javafx-controls-16-ea+2-win.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/16-ea+2/javafx-controls-16-ea+2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/16-ea+2/javafx-controls-16-ea+2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_openjfx_javafx_base_16_ea_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_openjfx_javafx_base_16_ea_2.xml	(date 1602499632354)
++++ .idea/libraries/Maven__org_openjfx_javafx_base_16_ea_2.xml	(date 1602499632354)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.openjfx:javafx-base:16-ea+2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/16-ea+2/javafx-base-16-ea+2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/16-ea+2/javafx-base-16-ea+2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/16-ea+2/javafx-base-16-ea+2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_openjfx_javafx_base_win_16_ea_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_openjfx_javafx_base_win_16_ea_2.xml	(date 1602499632370)
++++ .idea/libraries/Maven__org_openjfx_javafx_base_win_16_ea_2.xml	(date 1602499632370)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.openjfx:javafx-base:win:16-ea+2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/16-ea+2/javafx-base-16-ea+2-win.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/16-ea+2/javafx-base-16-ea+2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/16-ea+2/javafx-base-16-ea+2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_openjfx_javafx_graphics_16_ea_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_openjfx_javafx_graphics_16_ea_2.xml	(date 1602499632423)
++++ .idea/libraries/Maven__org_openjfx_javafx_graphics_16_ea_2.xml	(date 1602499632423)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.openjfx:javafx-graphics:16-ea+2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/16-ea+2/javafx-graphics-16-ea+2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/16-ea+2/javafx-graphics-16-ea+2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/16-ea+2/javafx-graphics-16-ea+2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_openjfx_javafx_graphics_win_16_ea_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_openjfx_javafx_graphics_win_16_ea_2.xml	(date 1602499632439)
++++ .idea/libraries/Maven__org_openjfx_javafx_graphics_win_16_ea_2.xml	(date 1602499632439)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.openjfx:javafx-graphics:win:16-ea+2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/16-ea+2/javafx-graphics-16-ea+2-win.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/16-ea+2/javafx-graphics-16-ea+2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/16-ea+2/javafx-graphics-16-ea+2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_openjfx_javafx_fxml_16_ea_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_openjfx_javafx_fxml_16_ea_2.xml	(date 1602499632408)
++++ .idea/libraries/Maven__org_openjfx_javafx_fxml_16_ea_2.xml	(date 1602499632408)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.openjfx:javafx-fxml:16-ea+2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/16-ea+2/javafx-fxml-16-ea+2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/16-ea+2/javafx-fxml-16-ea+2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/16-ea+2/javafx-fxml-16-ea+2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_openjfx_javafx_fxml_win_16_ea_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_openjfx_javafx_fxml_win_16_ea_2.xml	(date 1602499632408)
++++ .idea/libraries/Maven__org_openjfx_javafx_fxml_win_16_ea_2.xml	(date 1602499632408)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.openjfx:javafx-fxml:win:16-ea+2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/16-ea+2/javafx-fxml-16-ea+2-win.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/16-ea+2/javafx-fxml-16-ea+2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/16-ea+2/javafx-fxml-16-ea+2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
