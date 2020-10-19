@@ -1,4 +1,4 @@
 package ch.ghibli.reiseverwaltung.backend.utils;
 
-public class Json {
+public abstract class Json {
 }

@@ -2,8 +2,11 @@ package ch.ghibli.reiseverwaltung.backend;
 
 import ch.ghibli.reiseverwaltung.backend.utils.Indexable;
 
-public class Localities extends Indexable {
+import java.util.ArrayList;
+
+public class Country extends Indexable {
     private String name;
+    public ArrayList<Locality> localities;
 
     public void setName(String name) {
         this.name = name;
