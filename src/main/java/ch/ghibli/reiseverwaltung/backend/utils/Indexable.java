@@ -4,4 +4,8 @@ import java.util.UUID;
 
 public abstract class Indexable {
     protected String id = UUID.randomUUID().toString();
+
+    public String getId(){
+        return id;
+    }
 }
