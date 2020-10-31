@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="200.0" prefWidth="300.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.ghibli.reiseverwaltung.ui.controllers.CreateCustomerScene">
+   <Label alignment="CENTER" prefHeight="40.0" prefWidth="300.0" style="-fx-background-color: #e8e8e8; -fx-border-color: #8b8a8a;" text="Kunde hinzufügen" textFill="#8b8a8a">
+      <font>
+         <Font size="15.0" />
+      </font>
+   </Label>
+   <TextField fx:id="surname" layoutX="36.0" layoutY="56.0" prefHeight="35.0" prefWidth="228.0" promptText="Vorname" />
+   <TextField fx:id="name" layoutX="36.0" layoutY="107.0" prefHeight="35.0" prefWidth="228.0" promptText="Nachname" />
+   <Button layoutX="188.0" layoutY="157.0" mnemonicParsing="false" onAction="#save" style="-fx-border-color: #b9e0a5; -fx-border-width: 2; -fx-background-color: white; -fx-text-fill: #b9e0a5; -fx-border-radius: 7;" text="Speichern">
+      <font>
+         <Font name="System Bold" size="12.0" />
+      </font>
+   </Button>
+   <Button layoutX="100.0" layoutY="157.0" mnemonicParsing="false" onAction="#back" style="-fx-border-color: #ff6b6b; -fx-border-width: 2; -fx-background-color: white; -fx-text-fill: #ff6b6b; -fx-border-radius: 7;" text="Abbrechen">
+      <font>
+         <Font name="System Bold" size="12.0" />
+      </font>
+   </Button>
+</AnchorPane>

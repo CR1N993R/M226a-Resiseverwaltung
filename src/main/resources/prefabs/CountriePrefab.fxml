@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="43.0" prefWidth="600.0" style="-fx-border-color: black; -fx-background-color: white;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <Label layoutX="12.0" layoutY="3.0" prefHeight="41.0" prefWidth="311.0" text="Schweiz" textFill="#7e7e7e" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="11.0" AnchorPane.rightAnchor="264.0" AnchorPane.topAnchor="0.0">
+      <font>
+         <Font size="14.0" />
+      </font>
+   </Label>
+   <Button layoutX="433.0" layoutY="7.0" style="-fx-border-color: #ff6b6b; -fx-border-width: 2; -fx-background-color: white; -fx-text-fill: #ff6b6b; -fx-border-radius: 7;" text="Löschen" AnchorPane.bottomAnchor="8.0" AnchorPane.leftAnchor="452.0" AnchorPane.rightAnchor="80.0" AnchorPane.topAnchor="7.0">
+      <font>
+         <Font name="System Bold" size="12.0" />
+      </font>
+   </Button>
+   <Button layoutX="343.0" layoutY="7.0" style="-fx-border-color: #85bfde; -fx-border-width: 2; -fx-background-color: white; -fx-text-fill: #85bfde; -fx-border-radius: 7;" text="Bearbeiten" AnchorPane.bottomAnchor="8.0" AnchorPane.leftAnchor="365.0" AnchorPane.rightAnchor="156.0" AnchorPane.topAnchor="7.0" />
+   <Button layoutX="507.0" layoutY="7.0" style="-fx-border-color: #ffe561; -fx-border-width: 2; -fx-background-color: white; -fx-text-fill: #ffe561; -fx-border-radius: 7;" text="Städte" AnchorPane.bottomAnchor="8.0" AnchorPane.leftAnchor="527.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="7.0">
+      <font>
+         <Font name="System Bold" size="12.0" />
+      </font>
+   </Button>
+</AnchorPane>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-border-color: black;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.ghibli.reiseverwaltung.ui.controllers.MainScene">
+   <AnchorPane prefHeight="70.0" prefWidth="600.0" style="-fx-background-color: #9ac7bf;" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <Label alignment="CENTER" layoutY="-3.0" prefHeight="80.0" prefWidth="598.0" text="Reiseverwaltung Ghibli" textFill="WHITE" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <font>
+            <Font name="System Bold" size="27.0" />
+         </font>
+      </Label>
+   </AnchorPane>
+   <AnchorPane layoutX="2.0" layoutY="331.0" prefHeight="69.0" prefWidth="598.0" style="-fx-background-color: #9ac7bf;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+   <Button layoutX="166.0" layoutY="159.0" mnemonicParsing="false" onAction="#showCountries" prefHeight="100.0" prefWidth="100.0" style="-fx-background-color: #f1b6b9;" text="Länder" textFill="WHITE" AnchorPane.bottomAnchor="145.0" AnchorPane.leftAnchor="166.0" AnchorPane.topAnchor="160.0">
+      <font>
+         <Font size="17.0" />
+      </font>
+   </Button>
+   <Button layoutX="342.0" layoutY="161.0" mnemonicParsing="false" onAction="#showCustomers" prefHeight="100.0" prefWidth="100.0" style="-fx-background-color: #b9e0a5;" text="Kunden" textFill="WHITE" AnchorPane.bottomAnchor="145.0" AnchorPane.rightAnchor="158.0" AnchorPane.topAnchor="160.0">
+      <font>
+         <Font size="17.0" />
+      </font>
+   </Button>
+</AnchorPane>

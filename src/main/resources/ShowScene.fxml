@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <AnchorPane prefHeight="65.0" prefWidth="600.0" style="-fx-background-color: #9ac7bf;" AnchorPane.bottomAnchor="335.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <Label fx:id="name" alignment="CENTER" prefHeight="65.0" prefWidth="600.0" textFill="WHITE" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <font>
+            <Font name="System Bold" size="25.0" />
+         </font>
+      </Label>
+   </AnchorPane>
+   <AnchorPane layoutY="361.0" prefHeight="45.0" prefWidth="600.0" style="-fx-background-color: #9ac7bf;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+   <Button layoutX="15.0" layoutY="363.4" mnemonicParsing="false" onAction="#back" style="-fx-background-color: null; -fx-border-color: red; -fx-border-radius: 6;" text="Zurück" textFill="RED" AnchorPane.bottomAnchor="9.400000000000034" AnchorPane.leftAnchor="15.0" />
+   <Button layoutX="75.0" layoutY="363.4" mnemonicParsing="false" onAction="#create" prefHeight="26.0" prefWidth="53.0" style="-fx-background-color: null; -fx-border-color: green; -fx-border-radius: 6;" text="Neu" textFill="#1a8d00" AnchorPane.bottomAnchor="9.400000000000034" AnchorPane.leftAnchor="75.0" />
+   <ScrollPane hbarPolicy="NEVER" layoutY="66.0" prefHeight="288.0" prefWidth="600.0" AnchorPane.bottomAnchor="46.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="66.0">
+      <VBox fx:id="vBox" prefHeight="50.0" prefWidth="600.0" />
+   </ScrollPane>
+</AnchorPane>

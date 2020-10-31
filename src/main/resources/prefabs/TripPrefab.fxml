@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="45.0" prefWidth="600.0" style="-fx-border-color: black; -fx-background-color: white;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <ComboBox layoutX="14.0" layoutY="5.0" prefHeight="35.0" prefWidth="120.0" promptText="Land" style="-fx-background-color: white; -fx-border-color: #8b8a8a#8b8a8a; -fx-border-radius: 2;" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="451.0" AnchorPane.topAnchor="5.0" />
+   <ComboBox layoutX="143.0" layoutY="5.0" prefHeight="35.0" prefWidth="120.0" promptText="Städte" style="-fx-background-color: white; -fx-border-color: #8b8a8a#8b8a8a; -fx-border-radius: 2;" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="143.0" AnchorPane.rightAnchor="322.0" AnchorPane.topAnchor="5.0" />
+   <Label layoutX="282.0" layoutY="5.0" prefHeight="35.0" prefWidth="66.0" text="19.2.2020" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="282.0" AnchorPane.rightAnchor="237.0" AnchorPane.topAnchor="5.0">
+      <font>
+         <Font size="13.0" />
+      </font>
+   </Label>
+   <Button layoutX="513.0" layoutY="8.0" mnemonicParsing="false" style="-fx-border-color: #ff6b6b; -fx-border-width: 2; -fx-background-color: white; -fx-text-fill: #ff6b6b; -fx-border-radius: 7;" text="Löschen" AnchorPane.bottomAnchor="9.0" AnchorPane.leftAnchor="513.0" AnchorPane.rightAnchor="7.0" AnchorPane.topAnchor="8.0">
+      <font>
+         <Font name="System Bold" size="12.0" />
+      </font>
+   </Button>
+   <Button layoutX="416.0" layoutY="8.0" mnemonicParsing="false" style="-fx-border-color: #85bfde; -fx-border-width: 2; -fx-background-color: white; -fx-text-fill: #85bfde; -fx-border-radius: 7;" text="Bearbeiten" AnchorPane.bottomAnchor="8.0" AnchorPane.leftAnchor="422.0" AnchorPane.rightAnchor="94.0" AnchorPane.topAnchor="7.0">
+      <font>
+         <Font name="System Bold" size="12.0" />
+      </font>
+   </Button>
+</AnchorPane>
